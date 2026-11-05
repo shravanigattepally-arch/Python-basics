@@ -1,0 +1,6 @@
+print("My Introduction")
+print("My name is shravani")
+print("I completed B.tech in EEE")
+print("My hobbies are listening music and drawing")
+print("Iam learning python")
+print(My goal is to become a software developer")
